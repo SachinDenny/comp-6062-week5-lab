@@ -62,7 +62,6 @@ let andResult= a>5&&b>5;
 let orResult= a>5||b>5;
 //
 // Do not edit below this line doing so will break the project, this code will display the values on the page
-//
 function getBadge(value) {
     return value ? `<span class="badge bg-success">True</span>` : `<span class="badge bg-danger">False</span>`;
 }
